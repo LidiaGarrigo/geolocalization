@@ -7,3 +7,6 @@ Dentro del ejercicio AJAX añadir la geolocalización del país seleccionado en 
 
 ## BONUS-TRACK
 Calcular la distancia entre el punto actual y el país seleccionado en el mapa.
+
+
+<!-- /* EJERCICIO HECHO EN LA CARPETA DE AJAX_GEOLOCALIZACION */ -->
